@@ -1,0 +1,7 @@
+*.a
+*.o
+*.s
+*.lst
+mcp-static
+mcp-dynamic
+tags
