@@ -1,5 +1,5 @@
 # Sample code for the blog article *Test-driving the MCP2515 CAN Controller (Part 2)*
-[Link to blog](http://steffen.ronalter.de/2017/10/15/test-driving-the-mcp2515-can-controller-part-2/)
+[Link to blog](https://deardevices.com/2017/10/15/test-driving-the-mcp2515-can-controller-part-2/)
 
 ## Get AVR toolchain ##
 There are several options to choose from:
